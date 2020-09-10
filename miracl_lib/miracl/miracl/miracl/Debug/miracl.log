@@ -1,0 +1,152 @@
+﻿Build started 11/9/2018 2:01:04 PM.
+     1>Project "c:\Users\hoon\documents\visual studio 2012\Projects\miracl\miracl\miracl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\new pro\MIRACL-master (5)\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "E:\new pro\MIRACL-master (5)\source\mr87f.c" "E:\new pro\MIRACL-master (5)\source\mr87v.c" "E:\new pro\MIRACL-master (5)\source\mraes.c" "E:\new pro\MIRACL-master (5)\source\mralloc.c" "E:\new pro\MIRACL-master (5)\source\mrarth0.c" "E:\new pro\MIRACL-master (5)\source\mrarth1.c" "E:\new pro\MIRACL-master (5)\source\mrarth2.c" "E:\new pro\MIRACL-master (5)\source\mrarth3.c" "E:\new pro\MIRACL-master (5)\source\mrbits.c" "E:\new pro\MIRACL-master (5)\source\mrbrick.c" "E:\new pro\MIRACL-master (5)\source\mrbuild.c" "E:\new pro\MIRACL-master (5)\source\mrcore.c" "E:\new pro\MIRACL-master (5)\source\mrcrt.c" "E:\new pro\MIRACL-master (5)\source\mrcurve.c" "E:\new pro\MIRACL-master (5)\source\mrdouble.c" "E:\new pro\MIRACL-master (5)\source\mrebrick.c" "E:\new pro\MIRACL-master (5)\source\mrec2m.c" "E:\new pro\MIRACL-master (5)\source\mrecn2.c" "E:\new pro\MIRACL-master (5)\source\mrfast.c" "E:\new pro\MIRACL-master (5)\source\mrflash.c" "E:\new pro\MIRACL-master (5)\source\mrflsh1.c" "E:\new pro\MIRACL-master (5)\source\mrflsh2.c" "E:\new pro\MIRACL-master (5)\source\mrflsh3.c" "E:\new pro\MIRACL-master (5)\source\mrflsh4.c" "E:\new pro\MIRACL-master (5)\source\mrfpe.c" "E:\new pro\MIRACL-master (5)\source\mrfrnd.c" "E:\new pro\MIRACL-master (5)\source\mrgcd.c" "E:\new pro\MIRACL-master (5)\source\mrgcm.c" "E:\new pro\MIRACL-master (5)\source\mrgf2m.c" "E:\new pro\MIRACL-master (5)\source\mrio1.c" "E:\new pro\MIRACL-master (5)\source\mrio2.c" "E:\new pro\MIRACL-master (5)\source\mrjack.c" "E:\new pro\MIRACL-master (5)\source\mrlucas.c" "E:\new pro\MIRACL-master (5)\source\mrmonty.c" "E:\new pro\MIRACL-master (5)\source\mrmuldv.c" "E:\new pro\MIRACL-master (5)\source\mrpi.c" "E:\new pro\MIRACL-master (5)\source\mrpower.c" "E:\new pro\MIRACL-master (5)\source\mrprime.c" "E:\new pro\MIRACL-master (5)\source\mrrand.c" "E:\new pro\MIRACL-master (5)\source\mrround.c" "E:\new pro\MIRACL-master (5)\source\mrscrt.c" "E:\new pro\MIRACL-master (5)\source\mrsha3.c" "E:\new pro\MIRACL-master (5)\source\mrshs.c" "E:\new pro\MIRACL-master (5)\source\mrshs256.c" "E:\new pro\MIRACL-master (5)\source\mrshs512.c" "E:\new pro\MIRACL-master (5)\source\mrsmall.c" "E:\new pro\MIRACL-master (5)\source\mrsroot.c" "E:\new pro\MIRACL-master (5)\source\mrstrong.c" "E:\new pro\MIRACL-master (5)\source\mrxgcd.c" "E:\new pro\MIRACL-master (5)\source\mrzzn2.c" "E:\new pro\MIRACL-master (5)\source\mrzzn2b.c" "E:\new pro\MIRACL-master (5)\source\mrzzn3.c" "E:\new pro\MIRACL-master (5)\source\mrzzn4.c"
+         mrzzn4.c
+         mrzzn3.c
+         mrzzn2b.c
+         mrzzn2.c
+         mrxgcd.c
+         mrstrong.c
+         mrsroot.c
+         mrsmall.c
+         mrshs512.c
+         mrshs256.c
+         mrshs.c
+         mrsha3.c
+         mrscrt.c
+         mrround.c
+         mrrand.c
+         mrprime.c
+         mrpower.c
+         mrpi.c
+         mrmuldv.c
+         mrmonty.c
+         Generating Code...
+     1>e:\new pro\miracl-master (5)\source\mrmonty.c(481): warning C4731: 'redc' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrmonty.c(487): warning C4731: 'redc' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrmonty.c(489): warning C4731: 'redc' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrmonty.c(493): warning C4731: 'redc' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrmonty.c(496): warning C4731: 'redc' : frame pointer register 'ebp' modified by inline assembly code
+         Compiling...
+         mrlucas.c
+         mrjack.c
+         mrio2.c
+         mrio1.c
+         mrgf2m.c
+     1>e:\new pro\miracl-master (5)\source\mrgf2m.c(382): warning C4101: 'k' : unreferenced local variable
+     1>e:\new pro\miracl-master (5)\source\mrgf2m.c(644): warning C4101: 'r' : unreferenced local variable
+     1>e:\new pro\miracl-master (5)\source\mrgf2m.c(644): warning C4101: 't' : unreferenced local variable
+     1>e:\new pro\miracl-master (5)\source\mrgf2m.c(643): warning C4101: 'j' : unreferenced local variable
+         mrgcm.c
+         mrgcd.c
+         mrfrnd.c
+         mrfpe.c
+         mrflsh4.c
+         mrflsh3.c
+         mrflsh2.c
+         mrflsh1.c
+         mrflash.c
+         mrfast.c
+         mrecn2.c
+         mrec2m.c
+         mrebrick.c
+         mrdouble.c
+         mrcurve.c
+         Generating Code...
+         Compiling...
+         mrcrt.c
+         mrcore.c
+         mrbuild.c
+         mrbrick.c
+         mrbits.c
+         mrarth3.c
+         mrarth2.c
+         mrarth1.c
+         mrarth0.c
+         mralloc.c
+         mraes.c
+         mr87v.c
+         mr87f.c
+         Generating Code...
+     1>e:\new pro\miracl-master (5)\source\mrarth1.c(536): warning C4731: 'mr_sdiv' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth1.c(543): warning C4731: 'mr_sdiv' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth1.c(549): warning C4731: 'mr_sdiv' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth1.c(258): warning C4731: 'mr_pmul' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth1.c(267): warning C4731: 'mr_pmul' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth1.c(272): warning C4731: 'mr_pmul' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(280): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(286): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(288): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(292): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(296): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(679): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(685): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(687): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(691): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(695): warning C4731: 'multiply' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(1306): warning C4731: 'divide' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(1313): warning C4731: 'divide' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(1315): warning C4731: 'divide' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(1319): warning C4731: 'divide' : frame pointer register 'ebp' modified by inline assembly code
+     1>e:\new pro\miracl-master (5)\source\mrarth2.c(1323): warning C4731: 'divide' : frame pointer register 'ebp' modified by inline assembly code
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"c:\users\hoon\documents\visual studio 2012\Projects\miracl\Debug\miracl.lib" /NOLOGO Debug\mr87f.obj
+         Debug\mr87v.obj
+         Debug\mraes.obj
+         Debug\mralloc.obj
+         Debug\mrarth0.obj
+         Debug\mrarth1.obj
+         Debug\mrarth2.obj
+         Debug\mrarth3.obj
+         Debug\mrbits.obj
+         Debug\mrbrick.obj
+         Debug\mrbuild.obj
+         Debug\mrcore.obj
+         Debug\mrcrt.obj
+         Debug\mrcurve.obj
+         Debug\mrdouble.obj
+         Debug\mrebrick.obj
+         Debug\mrec2m.obj
+         Debug\mrecn2.obj
+         Debug\mrfast.obj
+         Debug\mrflash.obj
+         Debug\mrflsh1.obj
+         Debug\mrflsh2.obj
+         Debug\mrflsh3.obj
+         Debug\mrflsh4.obj
+         Debug\mrfpe.obj
+         Debug\mrfrnd.obj
+         Debug\mrgcd.obj
+         Debug\mrgcm.obj
+         Debug\mrgf2m.obj
+         Debug\mrio1.obj
+         Debug\mrio2.obj
+         Debug\mrjack.obj
+         Debug\mrlucas.obj
+         Debug\mrmonty.obj
+         Debug\mrmuldv.obj
+         Debug\mrpi.obj
+         Debug\mrpower.obj
+         Debug\mrprime.obj
+         Debug\mrrand.obj
+         Debug\mrround.obj
+         Debug\mrscrt.obj
+         Debug\mrsha3.obj
+         Debug\mrshs.obj
+         Debug\mrshs256.obj
+         Debug\mrshs512.obj
+         Debug\mrsmall.obj
+         Debug\mrsroot.obj
+         Debug\mrstrong.obj
+         Debug\mrxgcd.obj
+         Debug\mrzzn2.obj
+         Debug\mrzzn2b.obj
+         Debug\mrzzn3.obj
+         Debug\mrzzn4.obj
+         miracl.vcxproj -> c:\users\hoon\documents\visual studio 2012\Projects\miracl\Debug\miracl.lib
+     1>Done Building Project "c:\Users\hoon\documents\visual studio 2012\Projects\miracl\miracl\miracl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.08

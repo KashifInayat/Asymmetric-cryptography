@@ -1,0 +1,45 @@
+﻿Build started 11/29/2018 2:30:27 PM.
+     1>Project "C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\cpabe\cpabe.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\source\repos\cpabe\cpabe\big.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\bn_pair.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\cpabe.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\ecn.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\ecn2.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\zzn.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\zzn12a.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\zzn2.cpp ..\..\..\..\..\source\repos\cpabe\cpabe\zzn4.cpp cpabe.cpp stdafx.cpp
+         stdafx.cpp
+         cpabe.cpp
+     1>c:\users\hoon\documents\visual studio 2012\projects\cpabe\cpabe\cpabe.cpp(478): warning C4101: 'l' : unreferenced local variable
+         zzn4.cpp
+         zzn2.cpp
+         zzn12a.cpp
+         zzn.cpp
+         ecn2.cpp
+         ecn.cpp
+         cpabe.cpp
+     1>c:\users\hoon\source\repos\cpabe\cpabe\cpabe.cpp(478): warning C4101: 'l' : unreferenced local variable
+         bn_pair.cpp
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(157): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(202): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(250): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(623): warning C4101: 'nbw' : unreferenced local variable
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(623): warning C4101: 'nzs' : unreferenced local variable
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(1088): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\hoon\source\repos\cpabe\cpabe\bn_pair.cpp(1106): warning C4101: 'i' : unreferenced local variable
+         big.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.lib" /MACHINE:X86 Debug\big.obj
+         Debug\bn_pair.obj
+         Debug\cpabe.obj
+         Debug\ecn.obj
+         Debug\ecn2.obj
+         Debug\zzn.obj
+         Debug\zzn12a.obj
+         Debug\zzn2.obj
+         Debug\zzn4.obj
+         Debug\cpabe.obj
+         Debug\stdafx.obj
+         ..\..\..\..\..\source\repos\cpabe\cpabe\miracl.lib
+     1>Debug\cpabe.obj : warning LNK4042: object specified more than once; extras ignored
+         cpabe.vcxproj -> C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.exe
+     1>Done Building Project "C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\cpabe\cpabe.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.30

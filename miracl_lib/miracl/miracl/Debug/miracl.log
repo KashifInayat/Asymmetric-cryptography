@@ -1,0 +1,120 @@
+﻿Build started 12/18/2018 10:21:33 AM.
+     1>Project "C:\Users\hoon\Documents\Visual Studio 2012\Projects\miracl\miracl\miracl.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\new pro\MIRACL-master (5)\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "E:\new pro\MIRACL-master (5)\source\mr87f.c" "E:\new pro\MIRACL-master (5)\source\mr87v.c" "E:\new pro\MIRACL-master (5)\source\mraes.c" "E:\new pro\MIRACL-master (5)\source\mralloc.c" "E:\new pro\MIRACL-master (5)\source\mrarth0.c" "E:\new pro\MIRACL-master (5)\source\mrarth1.c" "E:\new pro\MIRACL-master (5)\source\mrarth2.c" "E:\new pro\MIRACL-master (5)\source\mrarth3.c" "E:\new pro\MIRACL-master (5)\source\mrbits.c" "E:\new pro\MIRACL-master (5)\source\mrbrick.c" "E:\new pro\MIRACL-master (5)\source\mrbuild.c" "E:\new pro\MIRACL-master (5)\source\mrcore.c" "E:\new pro\MIRACL-master (5)\source\mrcrt.c" "E:\new pro\MIRACL-master (5)\source\mrcurve.c" "E:\new pro\MIRACL-master (5)\source\mrdouble.c" "E:\new pro\MIRACL-master (5)\source\mrebrick.c" "E:\new pro\MIRACL-master (5)\source\mrec2m.c" "E:\new pro\MIRACL-master (5)\source\mrecn2.c" "E:\new pro\MIRACL-master (5)\source\mrfast.c" "E:\new pro\MIRACL-master (5)\source\mrflash.c" "E:\new pro\MIRACL-master (5)\source\mrflsh1.c" "E:\new pro\MIRACL-master (5)\source\mrflsh2.c" "E:\new pro\MIRACL-master (5)\source\mrflsh3.c" "E:\new pro\MIRACL-master (5)\source\mrflsh4.c" "E:\new pro\MIRACL-master (5)\source\mrfpe.c" "E:\new pro\MIRACL-master (5)\source\mrfrnd.c" "E:\new pro\MIRACL-master (5)\source\mrgcd.c" "E:\new pro\MIRACL-master (5)\source\mrgcm.c" "E:\new pro\MIRACL-master (5)\source\mrgf2m.c" "E:\new pro\MIRACL-master (5)\source\mrio1.c" "E:\new pro\MIRACL-master (5)\source\mrio2.c" "E:\new pro\MIRACL-master (5)\source\mrjack.c" "E:\new pro\MIRACL-master (5)\source\mrlucas.c" "E:\new pro\MIRACL-master (5)\source\mrmonty.c" "E:\new pro\MIRACL-master (5)\source\mrmuldv.c" "E:\new pro\MIRACL-master (5)\source\mrpi.c" "E:\new pro\MIRACL-master (5)\source\mrpower.c" "E:\new pro\MIRACL-master (5)\source\mrprime.c" "E:\new pro\MIRACL-master (5)\source\mrrand.c" "E:\new pro\MIRACL-master (5)\source\mrround.c" "E:\new pro\MIRACL-master (5)\source\mrscrt.c" "E:\new pro\MIRACL-master (5)\source\mrsha3.c" "E:\new pro\MIRACL-master (5)\source\mrshs.c" "E:\new pro\MIRACL-master (5)\source\mrshs256.c" "E:\new pro\MIRACL-master (5)\source\mrshs512.c" "E:\new pro\MIRACL-master (5)\source\mrsmall.c" "E:\new pro\MIRACL-master (5)\source\mrsroot.c" "E:\new pro\MIRACL-master (5)\source\mrstrong.c" "E:\new pro\MIRACL-master (5)\source\mrxgcd.c" "E:\new pro\MIRACL-master (5)\source\mrzzn2.c" "E:\new pro\MIRACL-master (5)\source\mrzzn2b.c" "E:\new pro\MIRACL-master (5)\source\mrzzn3.c" "E:\new pro\MIRACL-master (5)\source\mrzzn4.c"
+         mrzzn4.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrzzn4.c': No such file or directory
+         mrzzn3.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrzzn3.c': No such file or directory
+         mrzzn2b.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrzzn2b.c': No such file or directory
+         mrzzn2.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrzzn2.c': No such file or directory
+         mrxgcd.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrxgcd.c': No such file or directory
+         mrstrong.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrstrong.c': No such file or directory
+         mrsroot.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrsroot.c': No such file or directory
+         mrsmall.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrsmall.c': No such file or directory
+         mrshs512.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrshs512.c': No such file or directory
+         mrshs256.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrshs256.c': No such file or directory
+         mrshs.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrshs.c': No such file or directory
+         mrsha3.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrsha3.c': No such file or directory
+         mrscrt.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrscrt.c': No such file or directory
+         mrround.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrround.c': No such file or directory
+         mrrand.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrrand.c': No such file or directory
+         mrprime.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrprime.c': No such file or directory
+         mrpower.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrpower.c': No such file or directory
+         mrpi.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrpi.c': No such file or directory
+         mrmuldv.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrmuldv.c': No such file or directory
+         mrmonty.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrmonty.c': No such file or directory
+         Generating Code...
+         Compiling...
+         mrlucas.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrlucas.c': No such file or directory
+         mrjack.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrjack.c': No such file or directory
+         mrio2.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrio2.c': No such file or directory
+         mrio1.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrio1.c': No such file or directory
+         mrgf2m.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrgf2m.c': No such file or directory
+         mrgcm.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrgcm.c': No such file or directory
+         mrgcd.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrgcd.c': No such file or directory
+         mrfrnd.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrfrnd.c': No such file or directory
+         mrfpe.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrfpe.c': No such file or directory
+         mrflsh4.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrflsh4.c': No such file or directory
+         mrflsh3.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrflsh3.c': No such file or directory
+         mrflsh2.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrflsh2.c': No such file or directory
+         mrflsh1.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrflsh1.c': No such file or directory
+         mrflash.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrflash.c': No such file or directory
+         mrfast.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrfast.c': No such file or directory
+         mrecn2.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrecn2.c': No such file or directory
+         mrec2m.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrec2m.c': No such file or directory
+         mrebrick.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrebrick.c': No such file or directory
+         mrdouble.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrdouble.c': No such file or directory
+         mrcurve.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrcurve.c': No such file or directory
+         Generating Code...
+         Compiling...
+         mrcrt.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrcrt.c': No such file or directory
+         mrcore.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrcore.c': No such file or directory
+         mrbuild.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrbuild.c': No such file or directory
+         mrbrick.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrbrick.c': No such file or directory
+         mrbits.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrbits.c': No such file or directory
+         mrarth3.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrarth3.c': No such file or directory
+         mrarth2.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrarth2.c': No such file or directory
+         mrarth1.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrarth1.c': No such file or directory
+         mrarth0.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mrarth0.c': No such file or directory
+         mralloc.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mralloc.c': No such file or directory
+         mraes.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mraes.c': No such file or directory
+         mr87v.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mr87v.c': No such file or directory
+         mr87f.c
+     1>c1 : fatal error C1083: Cannot open source file: 'E:\new pro\MIRACL-master (5)\source\mr87f.c': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\hoon\Documents\Visual Studio 2012\Projects\miracl\miracl\miracl.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.51

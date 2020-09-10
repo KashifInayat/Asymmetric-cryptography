@@ -1,0 +1,20 @@
+﻿Build started 12/21/2018 11:50:27 AM.
+     1>Project "C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\cpabe\cpabe.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.lib" /MACHINE:X86 Debug\big.obj
+         Debug\bn_pair.obj
+         Debug\ecn.obj
+         Debug\ecn2.obj
+         Debug\zzn.obj
+         Debug\zzn12a.obj
+         Debug\zzn2.obj
+         Debug\zzn4.obj
+         Debug\cpabe.obj
+         Debug\stdafx.obj
+         "E:\New folder (2)\miracl\Debug\miracl.lib"
+         cpabe.vcxproj -> C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\Debug\cpabe.exe
+     1>Done Building Project "C:\Users\hoon\Documents\Visual Studio 2012\Projects\cpabe\cpabe\cpabe.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36

@@ -1,0 +1,42 @@
+﻿Build started 1/7/2019 4:24:37 PM.
+     1>Project "E:\crypto implementation\hibe Hierarchical IBE (Lewko & Waters)\hibe\hibe.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\big.cpp ..\bn_pair.cpp ..\ecn.cpp ..\ecn2.cpp ..\hibe.cpp ..\zzn.cpp ..\zzn12a.cpp ..\zzn2.cpp ..\zzn4.cpp hibe.cpp stdafx.cpp
+         stdafx.cpp
+         hibe.cpp
+         zzn4.cpp
+         zzn2.cpp
+         zzn12a.cpp
+         zzn.cpp
+         hibe.cpp
+         ecn2.cpp
+         ecn.cpp
+         bn_pair.cpp
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(157): warning C4101: 'j' : unreferenced local variable
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(202): warning C4101: 'i' : unreferenced local variable
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(250): warning C4101: 'j' : unreferenced local variable
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(623): warning C4101: 'nbw' : unreferenced local variable
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(623): warning C4101: 'nzs' : unreferenced local variable
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(1088): warning C4101: 'i' : unreferenced local variable
+     1>e:\crypto implementation\hibe hierarchical ibe (lewko & waters)\bn_pair.cpp(1106): warning C4101: 'i' : unreferenced local variable
+         big.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\crypto implementation\hibe Hierarchical IBE (Lewko & Waters)\Debug\hibe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\crypto implementation\hibe Hierarchical IBE (Lewko & Waters)\Debug\hibe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\crypto implementation\hibe Hierarchical IBE (Lewko & Waters)\Debug\hibe.lib" /MACHINE:X86 Debug\big.obj
+         Debug\bn_pair.obj
+         Debug\ecn.obj
+         Debug\ecn2.obj
+         Debug\hibe.obj
+         Debug\zzn.obj
+         Debug\zzn12a.obj
+         Debug\zzn2.obj
+         Debug\zzn4.obj
+         Debug\hibe.obj
+         Debug\stdafx.obj
+         ..\..\miracl\Debug\miracl.lib
+     1>LINK : fatal error LNK1104: cannot open file '..\..\miracl\Debug\miracl.lib'
+     1>Done Building Project "E:\crypto implementation\hibe Hierarchical IBE (Lewko & Waters)\hibe\hibe.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.88
